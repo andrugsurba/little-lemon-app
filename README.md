@@ -1,1 +1,1 @@
-Little Lemon React Native App
+Little Lemon React Native App.
